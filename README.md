@@ -1,2 +1,2 @@
 # Rock-Paper-Scissor
-Rock-Paper-Scissors: Classic Edition 🎸📄✂️. A modern take on the timeless game with sleek HTML/CSS/JS design. Challenge friends for a quick duel and embrace the nostalgia! 🎮💻 #ClassicGaming #RPSFun
+Introducing "Rock-Paper-Scissors: Classic Edition" - a timeless game reimagined with a touch of modern flair! 🎸📄✂️ Immerse yourself in the nostalgia of classic rock, paper, and scissors, brought to life with a sleek HTML, CSS, and JS design. Challenge your friends to a quick duel and relive the excitement of this iconic game in a stylish digital format! 🎮💻 #ClassicGaming #HTMLCSSJSFun
